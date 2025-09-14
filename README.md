@@ -14,7 +14,7 @@ A backend application built with Node.js, Express.js, and MongoDB to manage acad
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Tech Stack**
+🛠**Tech Stack**
 
 -**Backend**: Node.js, Express.js
 -**Database: MongoDB**, Mongoose
